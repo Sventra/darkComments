@@ -3,8 +3,9 @@
     <p>A more friendly comments.app</p>
 </div>
 
-![Preview screenshot](/images/screenshot.png)
-
+<p align="center">
+  <img src="/images/screenshot.png">
+</p>
 
 ## How to install it
 ### Method 1
